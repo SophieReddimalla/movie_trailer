@@ -30,7 +30,7 @@ mv_angry_birds = media.Movie(
 
 # Madagascar : movie title, storyline, poster image, madagascar trailer
 mv_madagascar = media.Movie(
-    "Madagascar"
+    "Madagascar",
     "An escape from the zoo.",
     image_base_url + "/3/36/Madagascar_Theatrical_Poster.jpg",
     "https://www.youtube.com/watch?v=dm-eiFVtRws")
